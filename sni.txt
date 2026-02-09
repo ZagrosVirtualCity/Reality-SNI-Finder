@@ -14,3 +14,15 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+coturnix.fr
+aare.chat
+excoino.com
+yahoo.com
+synology.com
+servidorafhstream.cl
+a-i-p-s.com
+canadianvisaexpert.org
+mynaturesdelight.com
+pfsense.test-628cb621377f4
+vetacenter.com
+girlscanner.cc
